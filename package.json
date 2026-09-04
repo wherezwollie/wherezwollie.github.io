@@ -1,0 +1,28 @@
+{
+  "name": "gold-coast-solar-website",
+  "version": "1.0.0",
+  "description": "Placeholder website for Gold Coast Solar & Energy Solutions hosting test",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "npx serve . -p 3000"
+  },
+  "keywords": [
+    "solar",
+    "gold-coast",
+    "fronius",
+    "enphase",
+    "sungrow",
+    "rec-solar",
+    "longi",
+    "placeholder-website",
+    "hosting-test"
+  ],
+  "author": "Gold Coast Solar Solutions",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
